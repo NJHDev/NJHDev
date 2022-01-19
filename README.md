@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 E
+### 🌱 Electronic Engineering Stundent
 <!-- Color: #B983FF | #94B3FD | #94DAFF | #99FEFF -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=94B3FD&height=300&section=header&text=NJHDev&fontSize=70&animation=fadeIn&fontAlignY=38&desc=NSU%20E.E.%20Student&descAlignY=51&descAlign=62)
