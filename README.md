@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=NJHDev&fontSize=70&animation=fadeIn&fontAlignY=38&desc=NSU%20E.E.%20Student&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=NJHDev&fontSize=70&animation=fadeIn&fontAlignY=38&desc=NSU%20E.E.%20Student&descAlignY=51&descAlign=62&color=gradient)
 
 [![status](https://github-readme-stats.vercel.app/api?username=NJHDev&show_icons=true&title_color=db61a2&text_color=ddd&icon_color=4d99e8&bg_color=0d1117&border_color=fff&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)  
 
