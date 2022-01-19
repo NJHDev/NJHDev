@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![status](https://github-readme-stats.vercel.app/api?username=NJHDev&show_icons=true&title_color=db61a2&text_color=ddd&icon_color=4d99e8&bg_color=0d1117&border_color=fff&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)  
+[![status](https://github-readme-stats.vercel.app/api?username=kwon99&show_icons=true&title_color=db61a2&text_color=ddd&icon_color=4d99e8&bg_color=0d1117&border_color=fff&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)  
 <!--
 **NJHdev/NJHDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
