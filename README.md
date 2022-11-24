@@ -5,7 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=94B3FD&height=300&section=header&text=NJHDev&fontSize=70&animation=fadeIn&fontAlignY=38&desc=NSU%20E.E.%20Student&descAlignY=51&descAlign=62)
 
 [![status](https://github-readme-stats.vercel.app/api?username=NJHDev&show_icons=true&title_color=B983FF&text_color=ddd&icon_color=94B3FD&bg_color=0d1117&border_color=fff&border_radius=10)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NJHDev&title_color=B983FF&text_color=ddd&icon_color=94B3FD&bg_color=0d1117&border_color=fff&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NJHDev&layout=compact&title_color=B983FF&text_color=ddd&icon_color=94B3FD&bg_color=0d1117&border_color=fff&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
